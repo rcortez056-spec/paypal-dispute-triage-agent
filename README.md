@@ -16,5 +16,5 @@ An autonomous AI-powered workflow designed to intake, analyze, and triage PayPal
 
 ## Getting Started
 
-   [git clone](https://github.com/rcortez056-spec/paypal-dispute-triage-agent.git)
+ * **Version Control:** Managed via GitHub ([paypal-dispute-triage-agent](https://github.com/rcortez056-spec/paypal-dispute-triage-agent)  
    
