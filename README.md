@@ -1,5 +1,5 @@
 # PayPal Dispute Triage Agent
-![PayPal Fraud Triage Agent Logo](https://chatgpt.com/c/6ad43a51-06d8-83e8-890e-508221f0e1e9)
+![PayPal Fraud Triage Agent Logo]()
 An autonomous AI-powered workflow designed to intake, analyze, and triage PayPal disputes efficiently, reducing manual review time and accelerating resolution workflows.
 
 ## Features
