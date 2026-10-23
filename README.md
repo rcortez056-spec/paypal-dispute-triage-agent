@@ -20,7 +20,7 @@ An autonomous, AI-powered workflow designed to intake, analyze, and triage PayPa
 ## Try It Out & Interactive Links
 
 * **Live Agent Clone Link**: [Test or Clone the Relevance AI Agent](https://app.relevanceai.com/agents/bcbe5a/4739e460-d5a5-4f1e-accc-ed10229b2ee0/1692b320-80ec-4f7c-b92f-c20682fab3b6/clone)
-* **Video Demonstration**: Check out the public YouTube walkthrough showing the agent in action.
+* **Video Demonstration**: Check out the public YouTube walkthrough showing the agent in action. [YouTube Demo](https://youtu.be/dZCoQR3JcWQ)
 
 ## Getting Started
 
