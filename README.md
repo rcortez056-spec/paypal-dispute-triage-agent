@@ -28,6 +28,6 @@ To review the source code and configuration files:
 
 1. **Clone the Repository**:
    
-   [git clone](https://github.com/rcortez056-spec/paypal-dispute-tragedy-agent.git)
+   git clone https://github.com/rcortez056-spec/paypal-dispute-tragedy-agent.git
    cd paypal-dispute-tragedy-agent
    
