@@ -14,7 +14,7 @@ An autonomous, AI-powered workflow designed to intake, analyze, and triage PayPa
 ## Tech Stack
 
 * **Core Platform**: Built using low-code/no-code autonomous agent workflows on **Relevance AI**.
-* **Version Control**: Managed via GitHub (`paypal-dispute-tragedy-agent`).
+* **Version Control**: Managed via GitHub (`paypal-dispute-triage-agent`).
 * **Licensing**: Distributed under the MIT License.
 
 ## Try It Out & Interactive Links
@@ -28,6 +28,6 @@ To review the source code and configuration files:
 
 1. **Clone the Repository**:
    
-   git clone https://github.com/rcortez056-spec/paypal-dispute-tragedy-agent.git
-   cd paypal-dispute-tragedy-agent
+   git clone https://github.com/rcortez056-spec/paypal-dispute-triage-agent.git
+   cd paypal-dispute-triage-agent
    
