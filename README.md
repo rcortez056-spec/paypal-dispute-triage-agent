@@ -16,7 +16,7 @@ An autonomous, AI-powered workflow designed to intake, analyze, and triage PayPa
 * **Core Platform**: Built using low-code/no-code autonomous agent workflows on **Relevance AI**.
 * **Version Control**: Managed via GitHub (`paypal-dispute-triage-agent`).
 * **Licensing**: Distributed under the MIT License.
-
+* **Payment Platform:** Integrated with the PayPal Developer Sandbox for secure transaction data handling.
 ## Try It Out & Interactive Links
 
 * **Live Agent Clone Link**: [Test or Clone the Relevance AI Agent](https://app.relevanceai.com/agents/bcbe5a/4739e460-d5a5-4f1e-accc-ed10229b2ee0/1692b320-80ec-4f7c-b92f-c20682fab3b6/clone)
